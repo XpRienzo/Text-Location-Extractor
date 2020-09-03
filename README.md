@@ -1,2 +1,2 @@
 # Text-Location-Extractor
-An LSTM based solution to extract location names from word sequences.
+A Deep Learning based solution to extract location names from word sequences.
